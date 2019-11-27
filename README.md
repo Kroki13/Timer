@@ -1,3 +1,3 @@
 #Timer
 
-[Сам таймер] (https://kroki13.github.io/Timer/)
+[Сам таймер](https://kroki13.github.io/Timer/)
